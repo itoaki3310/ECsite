@@ -5,10 +5,7 @@
 ### - LeisurePass！ECサイトURL（公開時間：平日10時 ～ 18時まで）  
 ##  http://www.internousdev.com/leisurepass  
   
-### - LeisurePass！リポジトリ  
-##  https://github.com/internousdevwork/leisurepass  
-　  
-■ 担当 ■  
+  ■ 担当 ■  
 ・カート機能・商品追加機能 
 ・バグ修正班として他担当のソースファイル多数  
 ・単体試験  
